@@ -10,11 +10,12 @@
 		highlight: false,
 		_renderItem: function(ul, item) {
 			var term = this.element.val(),
-				matcher = new RegExp($.ui.autocomplete.escapeRegex(term), 'i');
+				matcher = new RegExp($.ui.autocomplete.escapeRegex(term), 'i'),
+				label = item.label;
 
 			return $('<li>')
 				.data('item.autocomplete', item)
-				.[this.options.highlight ? 'html' : 'text'](item.label.replace(matcher, '<span>$&</span>'))
+				.html(this.options.highlight ? label.replace(matcher, '<span>$&</span>') : label)
 				.appendTo(ul);
 		}
 	});
