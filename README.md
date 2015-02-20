@@ -1,4 +1,4 @@
-#jQuery UI > Autocomplete Widget > Match
+#jQueryUI.Autocomplete.Match
 
 [jQuery UI][] plugin for [Autocomplete Widget][] to highlight matches in dropdown lists.
 
