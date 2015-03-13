@@ -1,6 +1,6 @@
 /*
-*	jQuery UI > Autocomplete Widget > Match, v1.0.0
-*	(c) 2014 Artyom "Sleepwalker" Fedosov <mail@asleepwalker.ru>
+*	jQueryUI.Autocomplete.Match, v1.0.0
+*	(c) 2014–2015 Artyom "Sleepwalker" Fedosov <mail@asleepwalker.ru>
 *	https://github.com/asleepwalker/jquery-ui.autocomplete.match.js
 */
 
