@@ -1,7 +1,7 @@
 {
   "name": "jquery-ui.autocomplete.match",
   "main": "jquery-ui.autocomplete.match.js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "homepage": "https://github.com/asleepwalker/jquery-ui.autocomplete.match",
   "authors": [
     "Artyom 'Sleepwalker' Fedosov <mail@asleepwalker.ru>"

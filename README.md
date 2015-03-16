@@ -4,10 +4,16 @@
 
 ```
 $('input').autocomplete({
-	highlight: true,
+	highlight: true, // Or string with your own classname
 	minLength: 0,
 	source: ['Mojito', 'Long Island Iced Tea', 'Margarita', 'Pina Colada', 'Mai Tai']
 });
+```
+
+```
+.ui-autocomplete-match {
+	color: #006CFC;
+}
 ```
 
 ### <a href="http://asleepwalker.github.io/jquery-ui.autocomplete.match/">Demo</a>
