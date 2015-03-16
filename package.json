@@ -1,0 +1,35 @@
+{
+  "name": "jquery-ui.autocomplete.match",
+  "version": "1.0.0",
+  "description": "jQuery UI plugin for Autocomplete Widget to highlight matches in dropdown lists",
+  "main": "jquery-ui.autocomplete.match.js",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/asleepwalker/jquery-ui.autocomplete.match.git"
+  },
+  "keywords": [
+    "jquery",
+    "jquery-ui",
+    "autocomplete",
+    "widget",
+    "combobox",
+    "match",
+    "matching",
+    "hightlight",
+    "highlighting",
+    "jquery-plugin"
+  ],
+  "author": "Artyom 'Sleepwalker' Fedosov <mail@asleepwalker.ru>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/asleepwalker/jquery-ui.autocomplete.match/issues"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.5",
+    "grunt-contrib-jshint": "~0.11.0",
+    "grunt-jscs": "~1.5.0"
+  }
+}
