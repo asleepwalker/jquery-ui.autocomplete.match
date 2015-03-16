@@ -2,7 +2,7 @@
   "name": "jquery-ui.autocomplete.match",
   "version": "1.0.1",
   "description": "jQuery UI plugin for Autocomplete Widget to highlight matches in dropdown lists",
-  "main": "jquery-ui.autocomplete.match.js",
+  "main": "lib/jquery-ui.autocomplete.match.js",
   "scripts": {
     "test": "grunt test"
   },
