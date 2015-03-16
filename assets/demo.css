@@ -18,7 +18,7 @@ input {
 	overflow-x: hidden;
 	overflow-y: auto;
 }
-.ui-autocomplete span {
+.ui-autocomplete-match {
 	color: #006CFC;
 }
 .ui-autocomplete .ui-state-focus {
