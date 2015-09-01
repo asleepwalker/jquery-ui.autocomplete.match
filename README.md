@@ -16,6 +16,8 @@ $('input').autocomplete({
 }
 ```
 
+![autocomplete](https://cloud.githubusercontent.com/assets/5080313/9653751/71eef77c-522e-11e5-88fd-6c291175c45b.png)
+
 ### <a href="http://asleepwalker.github.io/jquery-ui.autocomplete.match/">Demo</a>
 
 ## License
