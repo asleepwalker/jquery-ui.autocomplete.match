@@ -1,4 +1,4 @@
-#jQueryUI.Autocomplete.Match &nbsp;[![Build Status](https://travis-ci.org/asleepwalker/jquery-ui.autocomplete.match.svg?branch=master)](https://travis-ci.org/asleepwalker/jquery-ui.autocomplete.match)
+#jQueryUI.Autocomplete.Match [![Build Status](https://travis-ci.org/asleepwalker/jquery-ui.autocomplete.match.svg?branch=master)](https://travis-ci.org/asleepwalker/jquery-ui.autocomplete.match) [![Dependency Status](https://gemnasium.com/badges/github.com/asleepwalker/jquery-ui.autocomplete.match.svg)](https://gemnasium.com/github.com/asleepwalker/jquery-ui.autocomplete.match)
 
 [jQuery UI](http://jqueryui.com/) plugin for [Autocomplete Widget](http://jqueryui.com/autocomplete/) to highlight matches in dropdown lists.
 
